@@ -1,0 +1,38 @@
+.carosel-button {
+  background-color: black !important;
+}
+.form {
+  background-color: #ffe8a1;
+}
+.form-button {
+  background-color: #ffe8a1;
+  color: rgb(10, 127, 207);
+  font-weight: bold;
+  border: 3px solid rgb(10, 127, 207);
+}
+.marquee {
+  background-color: #a4abb9;
+}
+.banner
+{
+  height: 80vh;
+  background-color: #EFEFEF;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.btn2
+{
+  background-color: rgb(50, 166, 243);
+  border: none;
+  color:white;
+  border-radius: 10px;
+}
+.btn2:hover{
+  background-color: rgb(9, 119, 192);
+}
+
+.galleryRow img:hover{
+  transform: scale(1.1)
+
+}

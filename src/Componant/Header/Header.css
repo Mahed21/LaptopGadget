@@ -1,0 +1,30 @@
+.navbar-background {
+  background-color: #081621;
+}
+.nav-text {
+  color: white !important;
+ 
+}
+.nav-text:hover
+{
+  background-color: #2087d3;
+  padding: 5px 5px;
+  color: white;
+  border-radius: 5px;
+}
+
+.nav-button {
+  background-image: linear-gradient(
+    to right top,
+    #2087d3,
+    #1290d8,
+    #0699db,
+    #06a2de,
+    #13abe1
+  );
+  color: white;
+}
+.toggle
+{ 
+  background-color: white;
+}
